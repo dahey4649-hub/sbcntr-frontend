@@ -40,3 +40,9 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
+    
+reports:
+  dummy:
+    files:
+      - "**/*"
+    base-directory: "."
